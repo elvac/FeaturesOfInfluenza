@@ -13,4 +13,5 @@ Limitations: Part of influenza data was suppressed. Lacked of flu shot rates for
 In this project, statistical analysis was mainly used, including descriptive analysis, statistical hypothesis testing and correlation analysis. Finally, used Tableau to visualize the insights.
 
 ## Outputs
-Based on the historical data, the outputs tells influenza features on multi-dimensions, including seasonality, geography, and age. Final Tableau Report: [Link](https://public.tableau.com/app/profile/elva7348/viz/PrepareStaffingNeedsforFluSeason/PrepareStaffingNeedsforFluSeason?publish=yes)
+Based on the historical data, the outputs tells influenza features on multi-dimensions, including seasonality, geography, and age.  
+Final Tableau Report: [Link](https://public.tableau.com/app/profile/elva7348/viz/PrepareStaffingNeedsforFluSeason/PrepareStaffingNeedsforFluSeason?publish=yes)
