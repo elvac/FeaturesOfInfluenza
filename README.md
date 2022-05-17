@@ -1,7 +1,7 @@
 # FeaturesOfInfluenza
 Using statistical methods to reveal the features of Influenza  
 
-![ ](/../../../../github/docs/Image/main/assets/Image/Flu image in Readme.png)
+![ ](/../../../../github/docs/Image/main/assets/images/Flu image in Readme.png)
 
 ## Project Brief
 This was a meaningful project which was to prepare a medical staffing plan for a domestic medical staffing company in US for the coming year, particularly for influenza season when medical staffs would be in high demand. Before that, it was necessary to clarify the features of influenza. The outputs of this phase of the project were expected to tell the crucial features of influenza which would be trend predicting preparation for the coming year.
