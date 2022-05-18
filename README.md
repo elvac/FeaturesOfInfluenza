@@ -2,7 +2,8 @@
 
 Using statistical methods to reveal the features of Influenza  
 
-<img src=https://github.com/elvac/Image/blob/main/flu_img.png width="800">
+<img width="800" alt="flu_img" src="https://user-images.githubusercontent.com/105080282/168961339-440ec7a8-d578-49d0-9371-d584f4f33691.png">
+
 
 
 ## Project Brief
